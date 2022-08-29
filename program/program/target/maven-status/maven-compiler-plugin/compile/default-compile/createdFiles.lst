@@ -1,0 +1,5 @@
+com\timetable\program\ProgramApplication.class
+com\timetable\program\controller\TimeTableController.class
+com\timetable\program\dto\TimeTableDTO.class
+com\timetable\program\service\impl\TimeTableServiceImpl.class
+com\timetable\program\service\TimeTableService.class
